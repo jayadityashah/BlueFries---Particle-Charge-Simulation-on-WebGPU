@@ -16,7 +16,11 @@ plus_probability - the probability of the particle to have a +1 charge. if -1, a
 width, height - width and height of the canvas
 
 A key on the particle color and charges:
+
 White - neutral
+
 Dark Blue - positive
+
 Pink - Negetive
+
 (Charges behave so simmilars attract for the demo but this can be changed by changing the charge co-relation to negetive in the wgsl file)
