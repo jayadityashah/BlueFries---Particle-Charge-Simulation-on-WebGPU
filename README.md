@@ -6,4 +6,5 @@ WebGPU: https://jayadityashah.github.io/BlueFries_ParticleChargeSimulation-on-We
 
 
 Without Web GPU: https://jayadityashah.github.io/BlueFries_ParticleChargeSimulation-WOGPU/?balls=2000&width=1400&height=650
+
 repository for w/o gpu: https://github.com/jayadityashah/BlueFries_ParticleChargeSimulation-WOGPU
