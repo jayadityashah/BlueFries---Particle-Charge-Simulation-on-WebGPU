@@ -3,7 +3,7 @@
  
 Live demo link:
 WebGPU: https://jayadityashah.github.io/BlueFries_ParticleChargeSimulation-on-WebGPU/?balls=600&width=1400&height=650
-Without Web GPU: https://jayadityashah.github.io/BlueFries_ParticleChargeSimulation-WOGPU/?balls=2000&width=1400&height=650
 
-This repository has the files that use WebGPU. Given below is the link to the repository for the version that doesn't use WebGPU:
-https://github.com/jayadityashah/BlueFries_ParticleChargeSimulation-WOGPU
+
+Without Web GPU: https://jayadityashah.github.io/BlueFries_ParticleChargeSimulation-WOGPU/?balls=2000&width=1400&height=650
+repository for w/o gpu: https://github.com/jayadityashah/BlueFries_ParticleChargeSimulation-WOGPU
